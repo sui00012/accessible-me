@@ -1,6 +1,7 @@
 body {
   font-family: 'Roboto', Helvetica, sans-serif;
-  background-color: grey;
+  background-color: white;
+  color: #111;
   margin: 0;
   padding: 0;
 }
@@ -39,7 +40,7 @@ img {
 
 .main-nav ul li a {
   display: block;
-  color: inherit;
+  color: #0a58ca;
   text-decoration: none;
   font-size: 1.25rem;
 }
@@ -60,8 +61,8 @@ form textarea {
 }
 
 form button {
-  background: none;
-  border: 2px solid black;
+  background: #ed9e9e;
+  border: 2px solid #111;
   padding: 1rem;
   text-transform: uppercase;
 }
